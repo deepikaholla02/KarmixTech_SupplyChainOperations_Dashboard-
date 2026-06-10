@@ -1,4 +1,18 @@
 # KarmixTech_SupplyChainOperations_Dashboard
+
+## Table of Contents
+ - [Project Overview](#project-overview)
+ - [Business Problem](#business-problem)
+ - [Dataset](#dataset)
+ - [Tools & Technologies Used](#tools--technologies-used)
+ - [Data Preparation](#data-preparation)
+ - [Dashboard Sections](#dashboard-sections)
+ - [Key Insights](#key-insights)
+ - [Business Impact](#business-impact)
+ - [Recommendations](#recommendations)
+ - [Dashboard Preview](#dashboard-preview)
+ - [Conclusion](#conclusion)
+
 ## Project Overview
 
 This project presents a Supply Chain & Operations Dashboard developed using Power BI and the DataCo Smart Supply Chain Dataset. The dashboard provides a comprehensive view of business performance, logistics efficiency, profitability, and delivery risk, enabling management to make data-driven decisions.
@@ -177,18 +191,9 @@ Ensure adequate inventory levels for top-selling products to avoid supply disrup
 
 Track delivery performance and shipping efficiency continuously to support proactive decision-making.
 
-📷 Dashboard Preview
+## Dashboard Preview
 
 <img width="853" height="372" alt="image" src="https://github.com/user-attachments/assets/b2650ca8-3f8b-4a00-b4bb-c3ea794b6a00" />
-
-
-## Future Enhancements
-  - Demand Forecasting using Machine Learning
-  - Inventory Optimization
-  - Predictive Delivery Delay Analysis
-  - Customer Segmentation Analytics
-  - Real-Time Supply Chain Monitoring
-  - Interactive Drill-Through Reports
 
 ## Conclusion
 
